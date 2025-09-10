@@ -1,0 +1,6 @@
+transaction_id,items
+1,"bread,milk"
+2,"bread,diaper,beer,eggs"
+3,"milk,diaper,beer,coke"
+4,"bread,milk,diaper,beer"
+5,"bread,milk,diaper,coke"
