@@ -1,3 +1,4 @@
+#Nhóm 6 - Nguyễn Văn  Dương - Thân Trọng Duy - Đặng Tuấn Anh
 import streamlit as st
 
 st.set_page_config(page_title="Data Mining Lab", page_icon="🧠")
