@@ -8,7 +8,7 @@ from sklearn.pipeline import Pipeline
 from sklearn.preprocessing import OneHotEncoder
 from sklearn.tree import DecisionTreeClassifier, plot_tree, export_text
 
-st.title("ID3 Decision Tree")
+st.title("Cây quyết định (ID3)")
 
 # --- Dữ liệu ---
 st.header("1) Dữ liệu")
