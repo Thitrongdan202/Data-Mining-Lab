@@ -4,7 +4,7 @@ import streamlit as st
 from mlxtend.frequent_patterns import apriori, association_rules
 from mlxtend.preprocessing import TransactionEncoder
 
-st.title("Apriori")
+st.title("Tập phổ biến & Luật kết hợp")
 
 # --- Sidebar tham số ---
 st.sidebar.header("Tham số")
