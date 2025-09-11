@@ -3,7 +3,7 @@ import streamlit as st
 
 st.set_page_config(page_title="Data Mining Lab", page_icon="🧠")
 
-st.title("Data Mining Lab — Apriori · ID3 · Naïve Bayes · K-Means · Rough Set")
+st.title("Data Mining Lab — Tập phổ biến & Luật kết hợp · Cây quyết định (ID3) · Naïve Bayes · K-Means · Thuật toán Reduct (Tập thô)")
 
 st.markdown(
     """Khám phá 5 thuật toán khai phá dữ liệu phổ biến.\n\n"
