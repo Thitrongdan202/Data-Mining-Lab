@@ -2,7 +2,7 @@ import pandas as pd
 import streamlit as st
 from utils.rs_reduct import greedy_reduct, positive_region, discernibility_matrix
 
-st.title("Rough Set Reduct")
+st.title("Thuật toán Reduct (Tập thô)")
 
 # --- Dữ liệu ---
 st.header("1) Dữ liệu")
