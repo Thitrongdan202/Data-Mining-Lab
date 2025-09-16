@@ -1,6 +1,5 @@
 """Các hàm hỗ trợ Rough Set (thuộc tính rời rạc)."""
 from __future__ import annotations
-import itertools
 from typing import List, Set
 import pandas as pd
 
