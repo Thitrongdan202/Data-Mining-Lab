@@ -21,7 +21,7 @@ st.dataframe(df, use_container_width=True)
 
 # --- Tham số ---
 st.header("2) Tham số")
-decision = st.selectbox("Decision attribute", df.columns, index=len(df.columns)-1)
+decision = st.selectbox("Thuộc tính quyết định", df.columns, index=len(df.columns)-1)
 cond_attrs = [c for c in df.columns if c != decision]
 
 # --- Tính reduct ---
