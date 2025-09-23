@@ -7,7 +7,8 @@ from sklearn.model_selection import train_test_split
 from sklearn.naive_bayes import BernoulliNB, GaussianNB, MultinomialNB
 from sklearn.pipeline import Pipeline
 from sklearn.preprocessing import OneHotEncoder
-#Bài toán phân lớp
+
+#Bài toán phân lớp dữ liệu
 st.title("Naïve Bayes")
 
 # --- Dữ liệu ---
