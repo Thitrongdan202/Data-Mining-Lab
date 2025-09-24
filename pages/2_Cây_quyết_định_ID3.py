@@ -7,6 +7,7 @@ from sklearn.model_selection import train_test_split
 from sklearn.pipeline import Pipeline
 from sklearn.preprocessing import OneHotEncoder
 from sklearn.tree import DecisionTreeClassifier, plot_tree, export_text
+
 st.title("Cây quyết định (ID3)")
 
 # --- Dữ liệu ---
