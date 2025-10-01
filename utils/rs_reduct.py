@@ -3,6 +3,7 @@ from __future__ import annotations
 from typing import List, Set
 import pandas as pd
 
+
 def indiscernibility(df: pd.DataFrame, attrs: List[str]) -> List[Set[int]]:
     """Tạo các lớp tương đương theo danh sách thuộc tính."""
     groups = df.groupby(attrs, dropna=False).groups
